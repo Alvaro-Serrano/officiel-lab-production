@@ -1,1 +1,1 @@
-web: java -Dport=7722 -Dstore=memory -jar target/alvaro-officiel-lab-production-1.0.0-SNAPSHOT.jar
+web: java -Dport=7722 -Dmode=demo -Dstore=memory -jar target/alvaro-officiel-lab-production-1.0.0-SNAPSHOT.jar
